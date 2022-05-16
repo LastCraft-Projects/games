@@ -1,0 +1,5 @@
+name: KitWarsSolo
+version: 1.0
+author: LastCraft
+main: net.lastcraft.kitwarssolo.KitWars
+depend: [DartaAPI]

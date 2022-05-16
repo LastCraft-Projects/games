@@ -1,0 +1,5 @@
+name: EggWarsLobby
+version: 1.0
+author: LastCraft
+main: net.lastcraft.eggwarslobby.EggWarsLobby
+depend: [Lobby]

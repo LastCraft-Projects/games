@@ -1,0 +1,12 @@
+net\lastcraft\kitwarssolo\game\GameFactory.class
+net\lastcraft\kitwarssolo\game\GameListener$1.class
+net\lastcraft\kitwarssolo\game\GameBoard.class
+net\lastcraft\kitwarssolo\kits\Kit.class
+net\lastcraft\kitwarssolo\game\GameListener.class
+net\lastcraft\kitwarssolo\game\GameTime.class
+net\lastcraft\kitwarssolo\game\Game.class
+net\lastcraft\kitwarssolo\kits\KitsMenu.class
+net\lastcraft\kitwarssolo\ShopNPC.class
+net\lastcraft\kitwarssolo\KitWars.class
+net\lastcraft\kitwarssolo\bonuses\Bonus.class
+net\lastcraft\kitwarssolo\KWPlayer.class

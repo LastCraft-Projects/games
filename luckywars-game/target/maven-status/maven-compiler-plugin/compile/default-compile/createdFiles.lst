@@ -1,0 +1,11 @@
+net\lastcraft\luckywars\LuckyWars.class
+net\lastcraft\luckywars\game\CreateGame.class
+net\lastcraft\luckywars\game\GameFactory.class
+net\lastcraft\luckywars\LWTeam.class
+net\lastcraft\luckywars\luckyblocks\Traps.class
+net\lastcraft\luckywars\game\GameListener.class
+net\lastcraft\luckywars\luckyblocks\Traps$1.class
+net\lastcraft\luckywars\luckyblocks\Items.class
+net\lastcraft\luckywars\game\GameBoard.class
+net\lastcraft\luckywars\luckyblocks\Mobs.class
+net\lastcraft\luckywars\luckyblocks\PseudoRandom.class

@@ -1,0 +1,6 @@
+name: GameEffects
+version: 1.0
+author: LastCraft
+main: net.lastcraft.gameeffects.GameEffects
+depend: [DartaAPI]
+softdepend: [LobbyAPI, Lobby, GameAPI]

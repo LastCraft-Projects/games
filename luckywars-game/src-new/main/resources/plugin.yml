@@ -1,0 +1,6 @@
+name: LuckyWars
+version: 2.0
+main: net.lastcraft.luckywars.LuckyWars
+depend: [DartaAPI, GameAPI]
+authors: [CatCoder]
+softdepend: [LobbyAPI]

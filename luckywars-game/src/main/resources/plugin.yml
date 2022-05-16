@@ -1,0 +1,5 @@
+name: LuckyWars
+version: 1.0
+author: LastCraft
+main: net.lastcraft.luckywars.LuckyWars
+depend: [DartaAPI]

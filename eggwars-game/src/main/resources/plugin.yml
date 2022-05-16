@@ -1,0 +1,5 @@
+name: EggWars
+version: 1.0
+author: LastCraft
+main: net.lastcraft.eggwars.EggWars
+depend: [DartaAPI]

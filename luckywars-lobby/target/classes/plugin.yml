@@ -1,0 +1,5 @@
+name: LuckyWarsLobby
+version: 1.0
+author: LastCraft
+main: net.lastcraft.luckywarslobby.LuckyWarsLobby
+depend: [Lobby]
